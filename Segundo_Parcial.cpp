@@ -116,7 +116,7 @@ int main ()
         cout << endl;
         system (CLEAR_SCREEN);
         cout << "MEN\351" << endl;
-        cout << "1.- Altas" << endl;
+        cout << "1.- Registros" << endl;
         cout << "2.- Consultas" << endl;
         cout << "3.- Actualizaciones" << endl;
         cout << "4.- Bajas" << endl;
